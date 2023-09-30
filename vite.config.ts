@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-//from package installed "node" : beautiful short import paths
+//from package installed "node" : beautiful short import paths (no ../../) but @
 import path from 'path';
 
 // https://vitejs.dev/config/
